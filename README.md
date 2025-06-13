@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelillah Derrar</h1>
 <h3 align="center">A passionate Frontend Web Developer from Algeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derrarabdelillah" alt="derrarabdelillah" /></a> </p>
 
 Abdelillah Derrar is a Front-End Web Developer focused on building modern, responsive, and high-performance websites that deliver results.
 
