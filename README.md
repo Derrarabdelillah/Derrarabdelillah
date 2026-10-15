@@ -103,7 +103,7 @@ mindset: Build, Learn, Improve, Repeat
 
 <div align="center">
 
-<a href="[YOUR_PROJECT_1_URL](https://github.com/Derrarabdelillah/Ecom_Pro)">
+<a href="https://github.com/Derrarabdelillah/Ecom_Pro">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Derrarabdelillah&repo=YOUR_PROJECT_1_REPO&theme=github_dark&hide_border=true" alt="Featured project one" />
 </a>
 
