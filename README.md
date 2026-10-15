@@ -3,17 +3,10 @@
 <!--                 ABDELILLAH DERRAR                       -->
 <!--             GitHub Profile README                       -->
 <!-- ======================================================= -->
-<div align="center">
-  <img
-    src="YOUR_RAW_BANNER_IMAGE_URL"
-    alt="Abdelillah Derrar — Full-Stack Developer"
-    width="100%"
-  />
-</div>
 
 <div align="center">
 
-# 👋 Hey, I'm Abdelillah Derrar
+# 👋 Hey, I'm Abdelillah Derrar, Passionate about building softwares that scales & learning.
 
 ### Full-Stack Developer | Building Real-World Software
 
