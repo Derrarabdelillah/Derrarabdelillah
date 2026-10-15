@@ -89,22 +89,12 @@ mindset: Build, Learn, Improve, Repeat
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Derrarabdelillah&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/Derrarabdelillah)
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Derrarabdelillah/Ecom_Pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Derrarabdelillah&repo=YOUR_PROJECT_1_REPO&theme=github_dark&hide_border=true" alt="Featured project one" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Derrarabdelillah&repo=Ecom_Pro&theme=github_dark&hide_border=true" alt="Featured project one" />
 </a>
 
 </div>
