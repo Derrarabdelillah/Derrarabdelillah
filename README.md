@@ -68,8 +68,10 @@ mindset: Build, Learn, Improve, Repeat
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel" alt="Development tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel,anthropic" alt="Development tools and platforms" />
 </p>
+
+
 
 ---
 
@@ -98,8 +100,6 @@ mindset: Build, Learn, Improve, Repeat
 </a>
 
 </div>
-
-> Replace these placeholders with real repositories and concise descriptions of the problems they solve.
 
 ---
 
