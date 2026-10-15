@@ -3,6 +3,13 @@
 <!--                 ABDELILLAH DERRAR                       -->
 <!--             GitHub Profile README                       -->
 <!-- ======================================================= -->
+<div align="center">
+  <img
+    src="YOUR_RAW_BANNER_IMAGE_URL"
+    alt="Abdelillah Derrar — Full-Stack Developer"
+    width="100%"
+  />
+</div>
 
 <div align="center">
 
@@ -17,7 +24,7 @@ and turning ideas into products.
 [![GitHub stars](https://img.shields.io/github/stars/Derrarabdelillah?style=for-the-badge&logo=github&label=Stars&color=181717)](https://github.com/Derrarabdelillah?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=Derrarabdelillah&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/Derrarabdelillah)
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Instagram](YOUR_INSTAGRAM_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://linkedin.com/in/abdelillahderrar) • [Instagram](www.instagram.com/abdelillah.dev) • [Portfolio](linktr.ee/AbdelillahPortfolio)
 
 </div>
 
@@ -35,10 +42,10 @@ focus:
   - Database Design
   - AI-Powered Applications
 currently_learning:
-  - TypeScript
   - System Design
-  - AI Engineering
+  - AI Tools, Claude, Claude code
   - Cloud Technologies
+
 mindset: Build, Learn, Improve, Repeat
 ```
 
