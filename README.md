@@ -13,9 +13,9 @@
 Building web applications, exploring AI-powered solutions,
 and turning ideas into products.
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/YOUR_GITHUB_USERNAME)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Stars&color=181717)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Derrarabdelillah?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/Derrarabdelillah)
+[![GitHub stars](https://img.shields.io/github/stars/Derrarabdelillah?style=for-the-badge&logo=github&label=Stars&color=181717)](https://github.com/Derrarabdelillah?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Derrarabdelillah&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/Derrarabdelillah)
 
 [LinkedIn](YOUR_LINKEDIN_URL) • [Instagram](YOUR_INSTAGRAM_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
 
@@ -77,13 +77,13 @@ mindset: Build, Learn, Improve, Repeat
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Derrarabdelillah&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derrarabdelillah&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used programming languages" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Derrarabdelillah&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -93,7 +93,7 @@ mindset: Build, Learn, Improve, Repeat
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/YOUR_GITHUB_USERNAME)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Derrarabdelillah&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/Derrarabdelillah)
 
 </div>
 
@@ -103,12 +103,8 @@ mindset: Build, Learn, Improve, Repeat
 
 <div align="center">
 
-<a href="YOUR_PROJECT_1_URL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_1_REPO&theme=github_dark&hide_border=true" alt="Featured project one" />
-</a>
-
-<a href="YOUR_PROJECT_2_URL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2_REPO&theme=github_dark&hide_border=true" alt="Featured project two" />
+<a href="[YOUR_PROJECT_1_URL](https://github.com/Derrarabdelillah/Ecom_Pro)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Derrarabdelillah&repo=YOUR_PROJECT_1_REPO&theme=github_dark&hide_border=true" alt="Featured project one" />
 </a>
 
 </div>
@@ -131,7 +127,7 @@ mindset: Build, Learn, Improve, Repeat
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Derrarabdelillah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
 
