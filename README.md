@@ -17,7 +17,7 @@ and turning ideas into products.
 [![GitHub stars](https://img.shields.io/github/stars/Derrarabdelillah?style=for-the-badge&logo=github&label=Stars&color=181717)](https://github.com/Derrarabdelillah?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=Derrarabdelillah&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/Derrarabdelillah)
 
-[LinkedIn](https://linkedin.com/in/abdelillahderrar) • [Instagram](www.instagram.com/abdelillah.dev) • [Portfolio](linktr.ee/AbdelillahPortfolio)
+[LinkedIn](https://linkedin.com/in/abdelillahderrar) • [Instagram](https://instagram.com/abdelillah.dev) • [Portfolio](https://linktr.ee/AbdelillahPortfolio)
 
 </div>
 
@@ -119,7 +119,7 @@ mindset: Build, Learn, Improve, Repeat
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Derrarabdelillah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelillahderrar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/abdelillah.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdelillah.dev)
 
 </div>
 
